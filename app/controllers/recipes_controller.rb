@@ -24,9 +24,16 @@ class RecipesController < ApplicationController
     end
     
     def update
+        if @recipe.update(repice_params)
+            redirect_to @recipe
+        else
+            render 'edit'
+        end
     end
     
     def destroy
+        @recipe.destroy
+        redirect_to root_path, notice: "Borrado satisfactoriamente"
     end
     
     private
