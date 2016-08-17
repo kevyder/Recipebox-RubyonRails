@@ -1,28 +1,17 @@
-== README
+== Recetas por Kevin Rodríguez
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+2016/08/17
 
-Things you may want to cover:
+Se utilizó:
 
-* Ruby version
+* Ruby on Rails '4.2.5'
 
-* System dependencies
+* SQLite3
 
-* Configuration
+* Bootstrap-sass '3.3.7'
 
-* Database creation
+* Paperclip ' 5.0'
 
-* Database initialization
+* Cocoon' '1.2.9'
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Devise '4.2'

@@ -1,24 +1,17 @@
+== Recetas por Kevin Rodríguez
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+2016/08/17
 
+Se utilizó:
 
-Welcome to your Rails project on Cloud9 IDE!
+* Ruby on Rails '4.2.5'
 
-To get started, just do the following:
+* SQLite3
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://recipe-box-kevyder.c9users.io/).
+* Bootstrap-sass '3.3.7'
 
-Happy coding!
-The Cloud9 IDE team
+* Paperclip ' 5.0'
 
+* Cocoon' '1.2.9'
 
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+* Devise '4.2'

@@ -14,6 +14,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'paperclip', '~> 5.0'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'devise', '~> 4.2'
 
 group :development, :test do
   gem 'byebug'
